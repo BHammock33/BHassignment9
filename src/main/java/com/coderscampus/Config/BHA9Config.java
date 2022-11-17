@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 import com.coderscampus.Domain.Recipe;
 
 @Configuration
-public class BHA9Config {
+public class  {
 
 	@Bean
 	public Recipe recipe() {
